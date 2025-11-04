@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="kanXer — Sahil Srivastava">
 </p>
-##⚫ About Sahil Srivastava — kanXer
+## ⚫ About Sahil Srivastava — kanXer
 
-##Sahil Srivastava — kanXer
+## Sahil Srivastava — kanXer
 
-##Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
+## Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
 
 **Focus:** Advanced Threat Intelligence & Security Automation
 
