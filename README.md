@@ -6,6 +6,7 @@
 
 ## **Sahil Srivastava** — *kanXer*  
 **Role:** Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)  
+
 **Focus:** Advanced Threat Intelligence & Security Automation  
 
 **Edge Skills**
