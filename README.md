@@ -4,7 +4,8 @@
 
 ## ⚫ About **Me** 
 
-## Sahil Srivastava — kanXer\n**Bug Bounties Hunter · Red teamer · Black Hat Hacker**
+## Sahil Srivastava — kanXer
+**Bug Bounties Hunter · Red teamer · Black Hat Hacker**
 
 ## Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
 
