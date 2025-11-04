@@ -53,8 +53,8 @@
     <tspan id="r4" opacity="0">Developer</tspan>
     <tspan id="r5" opacity="0">•</tspan>
     <tspan id="r6" opacity="0">Black</tspan>
-    <tspan id="r6" opacity="0">Hat</tspan>
-    <tspan id="r7" opacity="0">Hacker</tspan>
+    <tspan id="r7" opacity="0">Hat</tspan>
+    <tspan id="r8" opacity="0">Hacker</tspan>
 
     <!-- animate reveals -->
     <animate xlink:href="#r0" attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.08s" fill="freeze"/>
@@ -65,6 +65,7 @@
     <animate xlink:href="#r5" attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.06s" fill="freeze"/>
     <animate xlink:href="#r6" attributeName="opacity" from="0" to="1" begin="2.38s" dur="0.08s" fill="freeze"/>
     <animate xlink:href="#r7" attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.08s" fill="freeze"/>
+    <animate xlink:href="#r8" attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.08s" fill="freeze"/>
   </text>
 
   <!-- Focus line (single reveal) -->
