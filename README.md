@@ -28,7 +28,7 @@
   </a>
   &nbsp;
   <a href="https://instagram.com/p.c.kill3r" target="_blank" rel="noopener">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM-E4405F?logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@p.c.kill3r-E4405F?logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://facebook.com/sahil.srivastava.1004" target="_blank" rel="noopener">
