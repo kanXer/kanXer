@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="kanXer — Sahil Srivastava">
 </p>
-## About Sahil Srivastava — kanXer ⚫
+## About Sahil Srivastava — kanXer 
 
 ## Sahil Srivastava — kanXer
 
