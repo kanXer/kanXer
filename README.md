@@ -1,21 +1,25 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="kanXer — Sahil Srivastava">
 </p>
-## ⚫ About Sahil Srivastava — kanXer
+##⚫ About Sahil Srivastava — kanXer
 
-## Sahil Srivastava — kanXer
+##Sahil Srivastava — kanXer
 
-## Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
+##Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
 
-** Focus: ** Advanced Threat Intelligence & Security Automation
+**Focus:** Advanced Threat Intelligence & Security Automation
 
 ## Edge Skills
 
-** - 🔐 Offensive-thinking Pen-Testing (authorized & responsible)**
-** - 🕵️ OSINT & Adversary Tradecraft Analysis **
-** - 🐍 Python Automation & Red-team Tooling (for testing under scope) **
-** - 🛡️ Threat Detection & Security Automation **
-** - 💻 Digital Forensics & Incident Response **
+**- 🔐 Offensive-thinking Pen-Testing (authorized & responsible)**
+
+**- 🕵️ OSINT & Adversary Tradecraft Analysis**
+
+** - 🐍 Python Automation & Red-team Tooling (for testing under scope)**
+
+**- 🛡️ Threat Detection & Security Automation**
+
+**- 💻 Digital Forensics & Incident Response**
 
 > Adversary’s mindset — lawful execution.
 
