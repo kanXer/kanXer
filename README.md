@@ -1,8 +1,8 @@
+## 🏴 About **Me** 🏴
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="kanXer — Sahil Srivastava">
 </p>
 
-## 🏴 About **Me** 🏴
 
 ## Sahil Srivastava — kanXer
 **Bug Bounties Hunter · Red teamer · Black Hat Hacker**
