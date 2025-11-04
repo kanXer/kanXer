@@ -2,9 +2,10 @@
   <img src="./assets/banner.svg" width="100%" alt="kanXer — Sahil Srivastava">
 </p>
 
-## ⚫ About Sahil Srivastava — kanXer 
+## ⚫ About **Me** 
 
 ## Sahil Srivastava — kanXer
+**Bug Bounties Hunter · Red teamer · Black Hat Hacker**
 
 ## Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
 
