@@ -1,0 +1,35 @@
+<!-- assets/banner.svg : Animated hacker-style header -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#020202"/>
+      <stop offset="100%" stop-color="#07110b"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="250" fill="url(#bg)"/>
+
+  <!-- moving scanline -->
+  <rect x="0" y="-60" width="1200" height="60" fill="#14b866" opacity="0.08">
+    <animate attributeName="y" from="-60" to="250" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- main text -->
+  <g filter="url(#glow)" transform="translate(60,130)">
+    <text font-family="Consolas,Monaco,'Courier New',monospace" font-size="54" fill="#12d86b">kanXer — Sahil Srivastava</text>
+    <text y="48" font-family="Consolas,Monaco,'Courier New',monospace" font-size="22" fill="#9fe9b8" opacity="0.9">
+      Rogue-minded Security Researcher • Threat Intelligence • Red Teaming
+      <animate attributeName="opacity" values="0.9;0.6;0.9" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- flicker overlay -->
+  <rect width="1200" height="250" fill="#12d86b" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.15;0;0.05;0" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
