@@ -9,6 +9,7 @@
 **Focus:** Advanced Threat Intelligence & Security Automation  
 
 **Edge Skills**
+
 **- 🔐 Offensive-thinking Pen-Testing** (*authorized & responsible*)  
 **- 🕵️ OSINT & Adversary Tradecraft Analysis**  
 **- 🐍 Python Automation & Red-team Tooling (*for testing under scope*)**  
