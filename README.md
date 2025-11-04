@@ -15,7 +15,7 @@
 
 **- 🕵️ OSINT & Adversary Tradecraft Analysis**
 
-** - 🐍 Python Automation & Red-team Tooling (for testing under scope)**
+**- 🐍 Python Automation & Red-team Tooling (for testing under scope)**
 
 **- 🛡️ Threat Detection & Security Automation**
 
@@ -25,7 +25,7 @@
 
 
 
-## Availability: **Bug bounties · Red team engagements · Research collabs**
+Availability: **Bug bounties · Red team engagements · Research collabs**
 
 
 ---
