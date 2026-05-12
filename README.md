@@ -5,7 +5,7 @@
 
 
 ## Sahil Srivastava — kanXer
-**Bug Bounties Hunter · Red teamer · Black Hat Hacker**
+**Bug Hunter · Red teamer · Black Hat Hacker**
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=kanXer&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
