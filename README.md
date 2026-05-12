@@ -7,6 +7,11 @@
 ## Sahil Srivastava — kanXer
 **Bug Bounties Hunter · Red teamer · Black Hat Hacker**
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=kanXer&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=kanXer&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+</picture>
+
 ## Role: Security Researcher & developer (Black Hacker Hacker & Cybersecurity Expert)
 
 **Focus:** Advanced Threat Intelligence & Security Automation
@@ -45,7 +50,3 @@ Availability: **Bug bounties · Red team engagements · Research collabs**
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white" />
   </a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=kanXer&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
-  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=kanXer&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
-</picture>
